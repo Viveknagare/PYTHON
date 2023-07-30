@@ -1,0 +1,11 @@
+from numpy import *
+arr=array([1,21,33,42,5])
+print(sin(arr))
+print(cos(arr))
+print(log(arr))
+print(sqrt(arr))
+print(sum(arr))
+print(min(arr))
+print(max(arr))
+arr.sort()
+print(arr)
