@@ -55,8 +55,8 @@
 
 **## Additional Resources:**
 
-https://docs.python.org/3/
-https://www.youtube.com/watch?v=QXeEoD0pB3E&list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3
+python documentation-https://docs.python.org/3/
+youbute videos for python- https://www.youtube.com/watch?v=QXeEoD0pB3E&list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3
 
 **## Contributing:**
 
